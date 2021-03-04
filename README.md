@@ -1,1 +1,1 @@
-# data_structures_-_algorithms
+## Repositorio para o curso de estrutura de dados e algoritmos em C
