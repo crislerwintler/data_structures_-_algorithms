@@ -162,3 +162,21 @@ int main(){
   return 0;
 }
     
+/* SAIDA DO PROGRAMA:
+Lista: " "
+Numero de elementos na lista: 0.
+Tamanho da lista (em bytes): 208.
+Lista: " 9 "
+Lista: " 9 3 12 4 1 "
+Numero de elementos na lista: 5.
+Tamanho da lista (em bytes): 208.
+Chave 4 encontrada na posicao: 3 do arranjo A.
+Chave 4 encontrada na posicao: 3 do arranjo A.
+Exclusao bem sucedida: 4.
+Exclusao bem sucedida: 9.
+Lista: " 3 12 1 "
+Numero de elementos na lista: 3.
+Tamanho da lista (em bytes): 208.
+Lista: " "
+Numero de elementos na lista: 0.
+Tamanho da lista (em bytes): 208.
